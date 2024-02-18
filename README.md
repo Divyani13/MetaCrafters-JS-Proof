@@ -1,1 +1,1 @@
-# MetacCrafters-JS-Proof
+# MetaCrafters-JS-Proof
